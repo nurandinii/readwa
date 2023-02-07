@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "express": "latest",
+    "qrcode": "latest",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
